@@ -7,7 +7,5 @@
 
 🌱 I’m learning SQL as well as exploring UI/UX design!
 
-💬 Reach out to me on LinkedIn: https://www.linkedin.com/in/jmarghirang/
 
-
-😄 Pronouns: she/her
+💬 LinkedIn: https://www.linkedin.com/in/jmarghirang/
